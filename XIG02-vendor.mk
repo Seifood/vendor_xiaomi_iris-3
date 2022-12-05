@@ -29,22 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/MTP/holi-mtpsku1-snd-card/MTP_SKU1_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/holi-mtpsku1-snd-card/MTP_SKU1_Headset_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/MTP/holi-mtpsku1-snd-card/MTP_SKU1_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/holi-mtpsku1-snd-card/MTP_SKU1_Speaker_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/MTP/holi-mtpsku1-snd-card/MTP_SKU1_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/holi-mtpsku1-snd-card/MTP_SKU1_workspaceFile.qwsp \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Bluetooth_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_General_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Global_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Handset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Hdmi_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Headset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_Speaker_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/aw882xx/QRD_global_aw882xx_workspaceFile.qwsp \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Bluetooth_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_General_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Global_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Handset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Hdmi_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Headset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_Speaker_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/global/fs19xx/QRD_global_fs19xx_workspaceFile.qwsp \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Bluetooth_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_General_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Global_cal.acdb \
@@ -53,21 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Headset_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Speaker_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_workspaceFile.qwsp \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Bluetooth_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_General_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Global_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Handset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Hdmi_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Headset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_Speaker_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/aw882xx/QRD_india_aw882xx_workspaceFile.qwsp \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Bluetooth_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_General_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Global_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Handset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Hdmi_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Headset_cal.acdb \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/QRD/india/fs19xx/QRD_india_fs19xx_Speaker_cal.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/acdbdata/nn_ns_models/fai__2.2.0_0.1__3.0.0_0.0__eai_1.00.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.2.0_0.1__3.0.0_0.0__eai_1.00.pmd \
@@ -113,15 +82,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/mixer_paths_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrd.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/mixer_paths_qrdsku1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrdsku1.xml \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/mixer_paths_qrdsku1_AW88261.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrdsku1_AW88261.xml \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/mixer_paths_qrdsku1_FS1962.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_qrdsku1_FS1962.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/mixer_paths_usbc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_usbc.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/qdcm_calib_data_xiaomi_36_02_0a_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_36_02_0a_video_mode_dsi_panel.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sensors/config/holi_ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_ak991x_0.json \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/sensors/config/holi_bmp380.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_bmp380.json \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sensors/config/holi_bu27030_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_bu27030_0.json \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sensors/config/holi_bu52053nvx_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_bu52053nvx_0.json \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sensors/config/holi_default_sensors.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/holi_default_sensors.json \
@@ -183,10 +149,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sound_trigger_mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_mixer_paths.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_platform_info.xml \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/spk_cal_pinknoise.wav:$(TARGET_COPY_OUT_VENDOR)/etc/spk_cal_pinknoise.wav \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/spk_cal_silence.wav:$(TARGET_COPY_OUT_VENDOR)/etc/spk_cal_silence.wav \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-camera.conf \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-class0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-class0.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-map.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-mgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-mgame.conf \
@@ -194,7 +157,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-normal.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-phone.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-phone.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-tgame.conf \
-    vendor/xiaomi/XIG02/proprietary/vendor/etc/thermal-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-video.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/thermald-devices.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermald-devices.conf \
     vendor/xiaomi/XIG02/proprietary/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml \
     vendor/xiaomi/XIG02/proprietary/vendor/firmware/a615_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a615_zap.b00 \
@@ -349,7 +311,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/libssrec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssrec.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/capi_v2_dap_cpdp.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_dap_cpdp.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/libadsp_jpege_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libadsp_jpege_skel.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libapps_mem_heap.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/libbitml_nsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libbitml_nsp_skel.so \
@@ -370,11 +331,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/misound_karaokemix_res.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_karaokemix_res.bin \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/misound_res.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_res.bin \
     vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/misound_res_headphone.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_res_headphone.bin \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib/rfsa/adsp/misound_res_spk.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_res_spk.bin \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib/soundfx/libhwdap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libhwdap.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmisoundfx.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswdap.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib/soundfx/libswgamedap.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libswgamedap.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/camera/com.qti.eeprom.irs2381c_polar.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.irs2381c_polar.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/camera/com.qti.eeprom.truly_cmb433.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.truly_cmb433.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/camera/com.qti.sensor.imx318.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx318.so \
@@ -574,7 +530,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libmmcamera_mfnr_t4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_mfnr_t4.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libmmcamera_pdpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_pdpc.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libmpbase.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmpbase.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib64/libnotifyaudiohal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnotifyaudiohal.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libofflinedump.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libofflinedump.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libofflinelog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libofflinelog.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libopencv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libopencv.so \
@@ -604,10 +559,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/libwa_rtdof.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwa_rtdof.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/sensors.elliptic.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.elliptic.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib64/soundfx/libhwdap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libhwdap.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib64/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmisoundfx.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib64/soundfx/libswdap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswdap.so \
-    vendor/xiaomi/XIG02/proprietary/vendor/lib64/soundfx/libswgamedap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libswgamedap.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so \
     vendor/xiaomi/XIG02/proprietary/vendor/lib64/vendor.qti.hardware.vibrator.impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.vibrator.impl.so
