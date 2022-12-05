@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),XIG02)
+ifeq ($(TARGET_DEVICE),iris)
 
 endif
